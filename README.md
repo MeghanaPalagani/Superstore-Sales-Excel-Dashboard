@@ -1,13 +1,22 @@
-# Global Superstore Sales Dashboard
+# Superstore-Sales-Excel-Dashboard
 
 ## Overview
 
-This project presents an interactive sales dashboard built in Microsoft Excel using the Global Superstore dataset.
+This project presents an interactive sales dashboard built in Microsoft Excel using the Superstore Sales dataset.
 
 The dashboard allows business users to analyze sales performance across multiple dimensions including region, category, customer segment, products and time using interactive filters.
 
 ---
 
+## Project Highlights
+
+- Built a fully interactive Microsoft Excel dashboard
+- Designed dynamic KPI cards using GETPIVOTDATA
+- Created Pivot Tables and Pivot Charts for business reporting
+- Implemented interactive Slicers and Timeline filters
+- Analyzed sales performance across regions, categories, segments and products
+
+---
 ## Dashboard Preview
 
 ![Dashboard Overview](Screenshots/Dashboard_Overview.png)
@@ -79,10 +88,20 @@ The dashboard allows business users to analyze sales performance across multiple
 
 ---
 
+## Business Questions Answered
+
+- Which region generates the highest sales?
+- Which product category performs best?
+- How does monthly sales change over time?
+- Which customer segment contributes the highest profit?
+- Which products generate the highest revenue?
+
+---
+
 ## Project Structure
 
 ```
-Global-Superstore-Sales-Dashboard
+Superstore-Sales-Excel-Dashboard
 |
 |-- Dashboard
 |-- Dataset
@@ -97,7 +116,7 @@ Global-Superstore-Sales-Dashboard
 
 ## Dataset
 
-Global Superstore Dataset
+Superstore Sales Dataset
 
 ---
 
